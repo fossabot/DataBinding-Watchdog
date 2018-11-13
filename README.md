@@ -20,6 +20,7 @@ dependencies {
 ```
 
 ![Watchdog](image/watchdog.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F4332weizi%2FDataBinding-Watchdog.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F4332weizi%2FDataBinding-Watchdog?ref=badge_shield)
 
 Before
 ---
@@ -103,3 +104,6 @@ After
         }
     }
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F4332weizi%2FDataBinding-Watchdog.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F4332weizi%2FDataBinding-Watchdog?ref=badge_large)
